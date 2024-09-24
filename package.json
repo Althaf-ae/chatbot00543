@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "makes a chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Althaf-ae/chatbot.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "althaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Althaf-ae/chatbot/issues"
+  },
+  "homepage": "https://github.com/Althaf-ae/chatbot#readme"
+}
